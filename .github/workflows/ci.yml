@@ -6,7 +6,7 @@ on:
 
 jobs:
   build:
-    name: Build BydTools
+    name: Build H3DisguiseNPC
     runs-on: windows-latest
 
     steps:
